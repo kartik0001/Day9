@@ -1,0 +1,5 @@
+Answer 2.
+OUTPUT:
+A B
+A B
+
